@@ -1,5 +1,8 @@
-# mvc-crud-php
-A simple CRUD using MVC in PHP
+## mvc-crud-php
+Um simples CRUD de Cliente usando MVC no PHP
 
-- Incluir cliente
-- Completar endereço do cliente no front-end a partir do CEP usando o VIACEP
+- Incluir, editar, listar e excluir Cliente;
+- Completar endereço do Cliente no front-end a partir do CEP usando o VIACEP;
+
+## Banco de dados
+- Postgres
